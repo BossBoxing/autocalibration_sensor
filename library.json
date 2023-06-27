@@ -1,0 +1,24 @@
+{
+    "name": "autocalibration_sensor",
+    "version": "0.0.1 (Beta)",
+    "description": "Easy way to Calibrate your sensor.",
+    "keywords": "Calibrate, Calibration, Reflective, Sensor, Arduino",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/BossBoxing/autocalibration_sensor"
+    },
+    "authors":
+    [
+      {
+        "name": "Hudsawat Akkati",
+        "email": "hudsawat.ak@gmail.com",
+        "url": "https://github.com/BossBoxing/autocalibration_sensor",
+        "maintainer": true
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/BossBoxing/autocalibration_sensor",
+    "frameworks": "arduino",
+    "platforms": "*"
+  }
