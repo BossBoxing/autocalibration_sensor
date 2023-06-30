@@ -60,4 +60,4 @@ You can ask me in Issue.
 - <a href="https://www.friendrobot.co/">Friend Robot (Official)</a>
 - <a href="http://www.friendrobotshop.com/">Friend Robot Shop</a>
 # Support Me
-Are you like this repository, Please Star for support me. :D
+if you like this repository, Please Star for support me. :D
