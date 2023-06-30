@@ -10,7 +10,7 @@ PASSED ON FRIEND ROBOT BOARD (MODEL PRO)
 [![Passed - Model Pro](https://img.shields.io/badge/PASSED-Model_Pro-2ea44f)](http://www.friendrobotshop.com/product/65/board-model-pro)
 ![Support - AVR Arduino](https://img.shields.io/badge/SUPPORT-AVR_Arduino-2ea44f)
 ![LICENSE - MIT](https://img.shields.io/badge/LICENSE-MIT-2ea44f) <br/>
-![AUTHOR - Boss.Dev](https://img.shields.io/badge/AUTHOR-Boss.Dev-2ea44f)
+![AUTHOR - Boss.Dev](https://img.shields.io/badge/AUTHOR-BossBoxing-2ea44f)
 ![Source - Open Source](https://img.shields.io/badge/SOURCE-Open_Source-2ea44f)
 ![LASTEST - 0.3beta](https://img.shields.io/badge/LASTEST-0.3beta-2ea44f)
 # Installation
