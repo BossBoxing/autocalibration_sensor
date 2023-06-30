@@ -5,7 +5,7 @@ This is Arduino Library for Calibrate, Find (Middle or Avg. Value) of Sensors.
 
 Based on Arduino, Can try with any board based on Arduino
 
-PASSED ON FRIEND ROBOT BOARD (MODEL PRO)
+PASSED ON <a href="http://www.friendrobotshop.com/product/65/board-model-pro">FRIEND ROBOT BOARD (MODEL PRO)</a>
 
 [![Passed - Model Pro](https://img.shields.io/badge/PASSED-Model_Pro-2ea44f)](http://www.friendrobotshop.com/product/65/board-model-pro)
 ![Support - AVR Arduino](https://img.shields.io/badge/SUPPORT-AVR_Arduino-2ea44f)
