@@ -41,6 +41,14 @@ Just try it with my example, it's very simple :D
 
     <a href="https://www.youtube.com/watch?v=yv9DqHfQLeA">Preview (Youtube Link)</a> 
 
+
+# Are you have issue
+
+You can ask me in Issue.
+# To-Do
+
+- Save Reff to EEPROM
+
 # Contributor
 
 - <a href="">Boss Hudsawat</a>
@@ -49,12 +57,5 @@ Just try it with my example, it's very simple :D
 
 - <a href="https://www.friendrobot.co/">Friend Robot (Official)</a>
 - <a href="http://www.friendrobotshop.com/">Friend Robot Shop</a>
-
-# Are you have issue
-
-You can ask me in Issue.
-# To-Do
-
-- Save Reff to EEPROM
 # Support Me
 Are you like this repository, Please Star for support me. :D
