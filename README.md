@@ -33,7 +33,7 @@ void calibrate(int TimeToCalibrate); // To Compute sensor with Time (ms.)
 
 Just try it with my example, it's very simple :D
 
-# Example
+# Description
 
 ## Part of Robot, We use for testing :
 
