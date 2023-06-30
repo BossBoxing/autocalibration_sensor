@@ -7,11 +7,12 @@ Based on Arduino, Can try with any board based on Arduino
 
 PASSED ON FRIEND ROBOT BOARD (MODEL PRO)
 
-[![Passed - Model Pro](https://img.shields.io/badge/Passed-Model_Pro-2ea44f)](http://www.friendrobotshop.com/product/65/board-model-pro)
-![Support - AVR Arduino](https://img.shields.io/badge/Support-AVR_Arduino-2ea44f)
-![LICENSE - MIT](https://img.shields.io/badge/LICENSE-MIT-2ea44f)
+[![Passed - Model Pro](https://img.shields.io/badge/PASSED-Model_Pro-2ea44f)](http://www.friendrobotshop.com/product/65/board-model-pro)
+![Support - AVR Arduino](https://img.shields.io/badge/SUPPORT-AVR_Arduino-2ea44f)
+![LICENSE - MIT](https://img.shields.io/badge/LICENSE-MIT-2ea44f) <br/>
 ![AUTHOR - Boss.Dev](https://img.shields.io/badge/AUTHOR-Boss.Dev-2ea44f)
-![Source - Open Source](https://img.shields.io/badge/Source-Open_Source-2ea44f)
+![Source - Open Source](https://img.shields.io/badge/SOURCE-Open_Source-2ea44f)
+![LASTEST - 0.3beta](https://img.shields.io/badge/LASTEST-0.3beta-2ea44f)
 # Installation
 
 - Download Here - <a href="https://github.com/BossBoxing/autocalibration_sensor/releases">Release</a>
@@ -42,7 +43,11 @@ Just try it with my example, it's very simple :D
    
    (Test on Model Pro -> You can change #include <ModelPro.h> to your board.)
 
-    <a href="https://www.youtube.com/watch?v=yv9DqHfQLeA">Preview (Youtube Link)</a> 
+    <a href="https://www.youtube.com/watch?v=yv9DqHfQLeA">Preview (Youtube Link)</a>
+
+3. Calibrate_TrackLine
+
+   Calibrate sensor for The Follower Line Robot Example
 
 
 # Are you have issue
