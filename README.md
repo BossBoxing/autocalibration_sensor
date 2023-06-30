@@ -36,7 +36,7 @@ Just try it with my example, it's very simple :D
 
 1. Calibrate_Simple
    
-   <a href="https://www.youtube.com/watch?v=DL4A0QbEVhE">Preview (Youtube Link)</a> 
+   <a href="https://www.youtube.com/watch?v=JVZyO-eq-WA">Preview (Youtube Link)</a> 
 
 2. Calibrate_Motor
 
