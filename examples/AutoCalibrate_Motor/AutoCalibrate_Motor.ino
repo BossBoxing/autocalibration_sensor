@@ -4,7 +4,7 @@ Author : Boss (Hudsawat Akkati) @ Friend Robot
 Website : https://www.friendrobot.co/
 ************************/
 
-#include <ModelPro.h>
+#include <ModelPro.h> // For motor() functions
 #include <AutoCalibration.h>
 
 /****************
