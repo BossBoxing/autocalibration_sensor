@@ -1,5 +1,5 @@
 /************************
-Topic : AutoCalibrate_Motor
+Topic : AutoCalibrate_Simple
 Author : Boss (Hudsawat Akkati) @ Friend Robot
 Website : https://www.friendrobot.co/
 ************************/
