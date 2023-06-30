@@ -63,7 +63,8 @@ Just try it with my example, it's very simple :D
 You can ask me in Issues.
 # To-Do
 
-- Save Reff to EEPROM
+- Save Reff to EEPROM (Source, Example)
+- Thai Documentation
 
 # Contributors
 
