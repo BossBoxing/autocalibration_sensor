@@ -1,24 +1,29 @@
 #pragma once
 #include <stdint.h>
-#ifndef autocalibration_h
-#define autocalibration_h
+#ifndef AutoCalibration_h
+#define AutoCalibration_h
 
-class Calibrate {
+class AutoCalibrate {
 
   public:
-    // commonly used functions ************************************************************************************
-
     // Default constructor
-    Calibrate();
+    AutoCalibrate();
     
-    void Calibrate(int n_sensor, int *sensor[])
+    // constructor
+    AutoCalibrate(int n_Sensor, int* pPort, int* pReff);
 
+    // Debug
+    void showOutput();
+    void readSensor();
+
+    // compute
+    void calibrate(int TimeToCalibrate);
     
-
   private:
-    int sensor[];
     int n_sensor;
-    
+    int* pPort;
+    int* pReff;
+
 
 };
 #endif
