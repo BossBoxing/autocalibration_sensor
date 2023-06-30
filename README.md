@@ -33,15 +33,13 @@ void calibrate(int TimeToCalibrate); // To Compute sensor with Time (ms.)
 
 Just try it with my example, it's very simple :D
 
-# Description
-
-## Part of Robot, We use for testing :
+# Part of Robot, We use for testing
 
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" alt="💡" width="20" height="20"> Board : <a href="http://www.friendrobotshop.com/product/65/board-model-pro">FRIEND ROBOT BOARD MODEL PRO</a>
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="20" height="20"> Sensor : 5 <a href="http://www.friendrobotshop.com/product/17/%E0%B9%80%E0%B8%8B%E0%B8%99%E0%B9%80%E0%B8%8B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B8%B8-%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%99%E0%B8%AD%E0%B8%99">Red Analog Reflective Sensor </a> (Port -> A1 - A5)
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9bf/512.gif" alt="🦿" width="20" height="20"> Motor : 2 <a href="http://www.friendrobotshop.com/product/138/%E0%B8%A1%E0%B8%AD%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-16ga-500-rpm-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%AA%E0%B8%B2%E0%B8%A2">6v 400rpm DC Motor</a> (Port -> Left=1, Right=2)
 
-## Examples :
+# Examples
 
 1. Calibrate_Simple
    
