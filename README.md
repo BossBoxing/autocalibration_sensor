@@ -38,7 +38,9 @@ Just try it with my example, it's very simple :D
    
    <a href="https://www.youtube.com/watch?v=JVZyO-eq-WA">Preview (Youtube Link)</a> 
 
-2. Calibrate_Motor
+2. Calibrate_Motor 
+   
+   (Test on Model Pro -> You can change #include <ModelPro.h> to your board.)
 
     <a href="https://www.youtube.com/watch?v=yv9DqHfQLeA">Preview (Youtube Link)</a> 
 
