@@ -54,7 +54,7 @@ You can ask me in Issue.
 - <a href="">Boss Hudsawat</a>
 - ChatGPT ( VVIP - Support Me >< )
 
-# Try our Product
+# Try Our Product
 
 - <a href="https://www.friendrobot.co/">Friend Robot (Official)</a>
 - <a href="http://www.friendrobotshop.com/">Friend Robot Shop</a>
