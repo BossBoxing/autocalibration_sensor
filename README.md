@@ -36,12 +36,10 @@ Just try it with my example, it's very simple :D
 1. Calibrate_Simple
    
    <a href="https://www.youtube.com/watch?v=DL4A0QbEVhE">Preview (Youtube Link)</a> 
-   <iframe width="560" height="315" src="https://www.youtube.com/embed/DL4A0QbEVhE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 2. Calibrate_Motor
 
     <a href="https://www.youtube.com/watch?v=yv9DqHfQLeA">Preview (Youtube Link)</a> 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/yv9DqHfQLeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Contributor
 
