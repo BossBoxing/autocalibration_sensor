@@ -1,9 +1,8 @@
 /************************
-Topic : AutoCalibrate_TrackLine
+Topic : AutoCalibrate_Simple
 Author : Boss (Hudsawat Akkati) @ Friend Robot
 Website : https://www.friendrobot.co/
 ************************/
-#include <ModelPro.h>               // motor() function
 #include <AutoCalibration.h>
 
 /****************
@@ -15,13 +14,6 @@ int sensorPort[5]={1, 2, 3, 4, 5};  // [Analog Only!] Ports Sensor. Example [A1 
 
 // initial our Calibrate method to call AutoCalibrate Class.
 AutoCalibrate Calibrate(n_sensor, &sensorPort[0], &reff[0]);
-
-void trackLine() {
-  if (analogRead(sensorPort[1]) < reff[1] && analogRead(sensorPort[3]) < reff[3]){ fd(30); }
-  if (analogRead(sensorPort[1]) > reff[1] && analogRead(sensorPort[3]) > reff[3]){ fd(30); }
-  if (analogRead(sensorPort[1]) < reff[1] && analogRead(sensorPort[3]) > reff[3]){ sl(30); }
-  if (analogRead(sensorPort[1]) > reff[1] && analogRead(sensorPort[3]) < reff[3]){ sr(30); }
-}
 
 void setup() {
 
@@ -45,5 +37,5 @@ void setup() {
 }
 
 void loop() {
-  trackLine();
+  
 }
